@@ -115,7 +115,7 @@ footer {
     <h2>▶️ YouTube</h2>
     <p>Här hittar du mina senaste videos.</p>
     <a class="link"
-       href="https://youtube.com/"
+       href="https://youtube.com/@kaffemackan
        target="_blank">
        Besök min YouTube
     </a>
